@@ -1,0 +1,62 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="xxx.cop" resolutions="1x" timestamp="1500457684377">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4219636008" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u1031-4.png" crc="356217408" ref="index"/>
+    <file name="u949-4.png" crc="348245258" ref="index"/>
+    <file name="u953-4.png" crc="502726279" ref="index"/>
+    <file name="u956-4.png" crc="3947594103" ref="index"/>
+    <file name="u959-4.png" crc="4168207483" ref="index"/>
+    <file name="1336252x5sur07r8uq068q-u612-fr.jpg" crc="4219792665" ref="index"/>
+    <file name="u614-6.png" crc="4210458769" ref="index"/>
+    <file name="092114ybk1evvehc66verl-u620-fr.jpg" crc="229654574" ref="index"/>
+    <file name="u622-6.png" crc="4089836553" ref="index"/>
+    <file name="4a36acaf2edda3cc6b6bda040be93901213f9202.jpg" crc="85117880" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u618-6.png" crc="109021732" ref="index"/>
+    <file name="u984-4.png" crc="327612375" ref="index"/>
+    <file name="u996-4.png" crc="3881756266" ref="index"/>
+    <file name="u987-4.png" crc="3906562771" ref="index"/>
+    <file name="u999-4.png" crc="3881756266" ref="index"/>
+    <file name="u990-4.png" crc="40412676" ref="index"/>
+    <file name="u1002-4.png" crc="3881756266" ref="index"/>
+    <file name="u993-4.png" crc="3981443234" ref="index"/>
+    <file name="u1005-4.png" crc="3881756266" ref="index"/>
+    <file name="u1040-4.png" crc="470859747" ref="index"/>
+    <file name="4ef0fd9343029445932a51bb1557f1ec882782629521b-w4urzg_fw658-u1011-fr.jpg" crc="3978266540" ref="index"/>
+    <file name="u1022-6.png" crc="343360325" ref="index"/>
+    <file name="u1046-4.png" crc="3873859715" ref="index"/>
+    <file name="u1049-4.png" crc="197726065" ref="index"/>
+    <file name="726c7711904766ce69f2013231a813e15c229147bc53f-qbjt0f_fw658-u1057-fr.jpg" crc="4143905212" ref="index"/>
+    <file name="u1056-6.png" crc="343360325" ref="index"/>
+    <file name="u1082-4.png" crc="3873859715" ref="index"/>
+    <file name="u1083-4.png" crc="197726065" ref="index"/>
+    <file name="4ef0fd9343029445932a51bb1557f1ec882782629521b-w4urzg_fw658.jpg" crc="129208475" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1091-6.png" crc="343360325" ref="index"/>
+    <file name="u1093-4.png" crc="197726065" ref="index"/>
+    <file name="u1235-4.png" crc="3873859715" ref="index"/>
+    <file name="4ef0fd9343029445932a51bb1557f1ec882782629521b-w4urzg_fw658-u1232-fr.jpg" crc="516299779" ref="index"/>
+    <file name="u1121-4.png" crc="62824932" ref="index"/>
+    <file name="u1124-8.png" crc="81900273" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4273944113" seo="true" mt="1500457638378" redirect="true"/>
+</manifest>
